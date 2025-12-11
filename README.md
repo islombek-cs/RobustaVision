@@ -1,4 +1,4 @@
-# 🌸 Any-Sensor Edge Vision Robustness
+# Any-Sensor Edge Vision Robustness
 
 **Team:** RobustaVision  
 **Team Members:** 221236 Islombek Abdurakhmanov || 220724 Odilova Zulayho || 221011 Jabborova Amina  
